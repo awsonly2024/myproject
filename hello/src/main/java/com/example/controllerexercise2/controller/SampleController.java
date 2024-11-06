@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class SampleController {
 	@RequestMapping("/")
 	public String hello() {
-		"dfdsf";
+	
 		return "Hello Spring Boot";
 	}
 }
